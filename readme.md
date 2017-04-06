@@ -1,8 +1,11 @@
-## dự án : webapp mạng xã hội ảnh
+## Nhom K59
+## dự án : Clone lại website : instagram.com
 ## Người phát triển:
 	1.Nguyễn Tiến Việt
-	2.Lê Đình Tuấn
-	3.Hoàng Minh Tuấn
+	2.Dương Xuân Đồng
+	3.Chung
+	4.Nguyễn Văn Huy
+	5.Mạnh
 ## Công nghệ làm dự án:
 	1.angular 2
 	2.node js
